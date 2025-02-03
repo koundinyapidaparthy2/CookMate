@@ -66,11 +66,5 @@ Run the app:
 npx react-native run-android  # For Android
 npx react-native run-ios      # For iOS
 
-🤝 Contributing
 
-Feel free to fork this repository and submit pull requests for improvements or new features.
-
-📜 License
-
-This project is licensed under the MIT License.
 
