@@ -18,19 +18,19 @@ The Recipe Sharing App is a cross-platform mobile application built using React 
 
 🖥️ Screenshots
 
-Home Screen
+### Home Screen
 ![Home Screen](images/HomeScreen.jpg)
 
 
-Create Recipe Screen
+### Create Recipe Screen
 ![Create Recipe Screen](images/CreateRecipeScreen.jpg)
 
 
-My Recipes Screen
+### My Recipes Screen
 ![My Recipes Screen](images/MyRecipeScreen.jpg)
 
 
-Account Screen
+### Account Screen
 ![Account Screen](images/AccountScreen.jpg)
 
 
