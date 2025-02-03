@@ -49,11 +49,11 @@ Clerk - For managing authentication seamlessly.
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/koundinyapidaparthy2/CookMate.git
 
 Navigate to the project folder:
 
-cd your-repo-name
+cd CookMate
 
 Install dependencies:
 
