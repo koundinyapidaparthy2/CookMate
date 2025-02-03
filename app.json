@@ -14,7 +14,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.krishnakoundinya.CookMate",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -61,6 +65,13 @@
       "eas": {
         "projectId": "21003987-7abe-491c-88dd-6baf0d02acd5"
       }
-    }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/21003987-7abe-491c-88dd-6baf0d02acd5"
+    },
+    "owner": "krishnakoundinya"
   }
 }
