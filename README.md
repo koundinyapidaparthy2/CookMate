@@ -10,26 +10,30 @@ The **Recipe Sharing App** is a cross-platform mobile application built using **
 - 📑 **Recipe Management**: Add, view, and delete recipes with detailed descriptions and ingredients.
 - ❤️ **Favorites**: Mark and manage favorite recipes.
 
-## 🖥️ Screenshots
+## Screen Shots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1 1 200px;">
-    <h3>Home Screen</h3>
-    <img src="images/HomeScreen.jpg" alt="Home Screen" style="width: 100%; max-width: 200px;" />
-  </div>
-  <div style="flex: 1 1 200px;">
-    <h3>Create Recipe Screen</h3>
-    <img src="images/CreateRecipeScreen.jpg" alt="Create Recipe Screen" style="width: 100%; max-width: 200px;" />
-  </div>
-  <div style="flex: 1 1 200px;">
-    <h3>My Recipes Screen</h3>
-    <img src="images/MyRecipeScreen.jpg" alt="My Recipes Screen" style="width: 100%; max-width: 200px;" />
-  </div>
-  <div style="flex: 1 1 200px;">
-    <h3>Account Screen</h3>
-    <img src="images/AccountScreen.jpg" alt="Account Screen" style="width: 100%; max-width: 200px;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Home Screen</h3>
+      <img src="images/HomeScreen.jpg" alt="Home Screen" width="200" />
+    </td>
+    <td>
+      <h3>Create Recipe Screen</h3>
+      <img src="images/CreateRecipeScreen.jpg" alt="Create Recipe Screen" width="200" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>My Recipes Screen</h3>
+      <img src="images/MyRecipeScreen.jpg" alt="My Recipes Screen" width="200" />
+    </td>
+    <td>
+      <h3>Account Screen</h3>
+      <img src="images/AccountScreen.jpg" alt="Account Screen" width="200" />
+    </td>
+  </tr>
+</table>
 
 
 
