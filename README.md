@@ -13,19 +13,20 @@ The **Recipe Sharing App** is a cross-platform mobile application built using **
 ## 🖥️ Screenshots
 
 ### Home Screen
-![Home Screen](images/HomeScreen.jpg)
+<img src="images/HomeScreen.jpg" alt="Auth Screen" width="200" />
 
 
 ### Create Recipe Screen
-![Create Recipe Screen](images/CreateRecipeScreen.jpg)
+<img src="images/CreateRecipeScreen.jpg" alt="Auth Screen" width="200" />
 
 
 ### My Recipes Screen
-![My Recipes Screen](images/MyRecipeScreen.jpg)
+<img src="images/MyRecipeScreen.jpg" alt="Auth Screen" width="200" />
 
 
 ### Account Screen
-![Account Screen](images/AccountScreen.jpg)
+<img src="images/AccountScreen.jpg" alt="Auth Screen" width="200" />
+
 
 
 
